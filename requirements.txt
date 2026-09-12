@@ -1,0 +1,16 @@
+# Maze Solver using A* Search
+# ==============================================================================
+# This project is built entirely using Python's built-in standard library:
+# - tkinter (Graphical User Interface and Canvas graphics)
+# - heapq (Min-priority queue for the A* Open Set)
+# - dataclasses (Typed structured data models)
+# - time (High-resolution execution timing)
+# - math (Coordinate arithmetic)
+# - random (Procedural obstacle maze generation)
+#
+# No external third-party packages are required to run this desktop application!
+# Python 3.8+ recommended.
+#
+# If running on Debian / Ubuntu Linux without tkinter installed, run:
+#   sudo apt-get install python3-tk
+# ==============================================================================
