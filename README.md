@@ -218,5 +218,5 @@ When walls completely enclose either the Start node or the Goal node:
 ## Author
 
 - **Name**: MOGALLAPALLI SUMEDHA
-- **GitHub Profile**: [https://github.com/your-username](https://github.com/your-username)
-- **Internship Project**: Artificial Intelligence Internship Portfolio
+- **GitHub Profile**: [https://github.com/sumedhamogallapalli](https://github.com/sumedhamogallapalli)
+  
